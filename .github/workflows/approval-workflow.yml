@@ -9,4 +9,4 @@ jobs:
       env:
         APPROVALS: "1"
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ADD_LABEL: "merge%20ready"
+        ADD_LABEL: "merge ready"
